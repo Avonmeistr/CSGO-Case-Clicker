@@ -3,9 +3,9 @@
 var itemCounter = 0;
 var fps = 15;
 
-var money = 7.50;
+var money = 175;
 var currentCase = "case1";
-var acceptMoneyPerClick = 0.1;
+var acceptMoneyPerClick = 3;
 
 /*=========================Inventory============================*/
 //In inventory: weap skins
@@ -18,10 +18,10 @@ var popup = true;
 var inventory = {};
 var jackpotInventory = {};
 
-var inventoryMax = 50;
+var inventoryMax = 150;
 var inventoryCurrent = 0;
 
-var keyPrice = 2.50;
+var keyPrice = 1;
 
 var caseDiscount = 0;
 var keyDiscount = 0;
