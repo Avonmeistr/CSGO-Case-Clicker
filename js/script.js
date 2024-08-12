@@ -18,7 +18,7 @@ var popup = true;
 var inventory = {};
 var jackpotInventory = {};
 
-var inventoryMax = 150;
+var inventoryMax = 1500;
 var inventoryCurrent = 0;
 
 var keyPrice = 1;
